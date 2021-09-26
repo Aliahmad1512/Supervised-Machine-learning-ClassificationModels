@@ -6,6 +6,6 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 Here,  we have to the analysis of what sort of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-In this I have used all Supervised Machine Learning models - Logistic Regression | Decision Tree | Random Forest | Naive Bayes Theorem | Support Vector Machine
+All Supervised Machine Learning models used in the analysis of Titanic dataset - Logistic Regression | Decision Tree | Random Forest | Naive Bayes Theorem | Support Vector Machine
 
 ![titanic datadictionary](https://user-images.githubusercontent.com/88396377/134795153-0f3d3eb0-9680-40a7-9924-ced01057a35d.PNG)
